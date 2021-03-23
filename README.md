@@ -52,7 +52,7 @@ The presentation will be graded as follows (8 total marks):
 - 2 marks for organization and delivery (e.g. clarity, enthusiasm, poise)
 - 3 marks for content (e.g. proper visuals, high-level ideas, answering questions)
 - 3 marks for the business pitch (e.g. recommendations, the solution to the problem)
-- 
+ 
 The analysis and the report will be graded as follows (12 total marks):
 
 - 3 marks for the analysis (e.g. cleaning the data, visualizations, applying algorithms)
