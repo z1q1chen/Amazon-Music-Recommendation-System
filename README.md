@@ -1,4 +1,4 @@
-# MIE1624_Course_Project_Group19
+# Kaggle Competition Group19
 ## Background
 For this project, we are responsible to complete a Kaggle competition. Each team will build a recommender system model to make predictions related to Amazon Music Reviews. eACH team will be required to complete a project report on their work in the form of a consulting report, as well as a final presentation.
 
