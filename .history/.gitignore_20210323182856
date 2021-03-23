@@ -114,5 +114,5 @@ dmypy.json
 .pyre/
 
 # Large Data
-test.csv
-train.csv
+src/test.csv
+src/train.csv
