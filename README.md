@@ -12,6 +12,7 @@ You will need to submit a Jupyter notebook with your code, a report and your pre
 
 ## Dataset:
 **train.csv.zip** 150,000 reviews to be used for training. It is not necessary to use all ratings for training, for example, if doing so proves too computationally intensive.
+
    **reviewerID** The ID of the user. This is a hashed user identifier from Amazon.
    **itemID** The ID of the item. This is a hashed product identifier from Amazon.
    **reviewText** The text of the review.
