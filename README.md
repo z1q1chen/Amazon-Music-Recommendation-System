@@ -62,6 +62,7 @@ The analysis and the report will be graded as follows (12 total marks):
    - Obtaining full marks requires a solution that is substantially better than baseline performance.
    - Obtain a solution that outperforms the baselines on the seen portion of the test data (i.e., the leaderboard). This is a consolation prize in case you overfit to the leaderboard. (1 mark).
    - Students with submissions ranked in the top 3 teams will receive a 2 point bonus mark.
+
 **Note that we will be checking submissions for similar or copied code and to verify competition rules were followed.**
 
 ## Written Report:
