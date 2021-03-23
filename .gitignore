@@ -116,3 +116,6 @@ dmypy.json
 # Large Data
 test.csv
 train.csv
+
+# Others
+.history
