@@ -4,7 +4,7 @@ import pandas as pd
 allRatings = []
 userRatings = defaultdict(list)
 
-data = pd.read_csv('train.csv')
+data = pd.read_csv('./data/train.csv')
 
 allRatings = data['overall'].to_list()
 
@@ -19,7 +19,7 @@ for u in userRatings:
     userAverage[u] = sum(userRatings[u]) / len(userRatings[u])
 
 predictions = open('rating_predictions.csv', 'w')
-for l in open('rating_pairs.csv'):
+for l in open('./data/rating_pairs.csv'):
     if l.startswith('userID'):
         #header
         predictions.write(l)
