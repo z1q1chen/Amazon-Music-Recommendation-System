@@ -2,12 +2,6 @@
 ## Background
 For this project, we are responsible to complete a Kaggle competition. Each team will build a recommender system model to make predictions related to Amazon Music Reviews. eACH team will be required to complete a project report on their work in the form of a consulting report, as well as a final presentation.
 
-## Deadline
-Submission deadline: April 4, 2021. Presentations are on April 6, 6:00-9:00pm during lecture time via Bb Collaborate.
-
-## Submission:
-You will need to submit a Jupyter notebook with your code, a report and your presentation slides through Quercus. Kaggle submissions will be made through the provided link. You will also be required to provide the code used.
-
 [link to Kaggle](https://www.kaggle.com/c/mie1624winter2021/)
 
 ## Dataset:
