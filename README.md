@@ -36,4 +36,9 @@ For this project, we are responsible to complete a Kaggle competition. Each team
 
 [link to Kaggle](https://www.kaggle.com/c/mie1624winter2021/)
 
-![Image category by star rating](https://github.com/jackychencw/Amazon-Music-Recommendation-System/tree/main/src/imgs/category_vs_star.png)
+## Dataset Overview:
+
+1. Number of Ratings by Category
+   ![Number of Ratings by Music Category](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/rating_vs_category.png)
+
+   ![Image category by star rating](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/category_vs_star.png)
