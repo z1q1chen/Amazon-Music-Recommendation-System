@@ -1,4 +1,4 @@
-# Kaggle Competition Group19
+# Amazon Music Recommendation Kaggle Competition
 
 ## Background
 
@@ -42,3 +42,19 @@ For this project, we are responsible to complete a Kaggle competition. Each team
    ![Number of Ratings by Music Category](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/rating_vs_category.png)
 
    ![Image category by star rating](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/category_vs_star.png)
+
+2. Word Cloud
+
+![High Star Word Cloud](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/high_star_wordcloud.png)
+
+![Low Star Word Cloud](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/low_star_wordcloud.png)
+
+3. Word Frequency
+   ![Word Frequency](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/most_frequent.png)
+
+## Result
+
+We tested differenet data engineering methods and used various traditional machine learning algorithms, below is a sample result. More details please check jupyter notebook.
+
+TF vs IDF vs N-gram
+![Result](https://raw.githubusercontent.com/jackychencw/Amazon-Music-Recommendation-System/main/src/imgs/train_result_by_cate.png)
